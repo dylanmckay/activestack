@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
 A library for getting detailed stacktraces (with active record variables).
 END
   s.authors     = ["Dylan McKay"]
-  s.email       = 'dylanmckay34@gmail.com'
+  s.email       = 'me@dylanmckay.io'
   s.files       = ["lib/activestack.rb"]
   s.homepage    = 'https://github.com/dylanmckay/activestack'
 
